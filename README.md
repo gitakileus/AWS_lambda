@@ -33,7 +33,7 @@ npm install
 
 * Create a new trial AWS account
 * Create a new AWS lambda account
-* Zipped the folder and upload to AWS lambda.
+* Zip the folder and upload to AWS lambda.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
